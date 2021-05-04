@@ -1,2 +1,8 @@
-# DreamAkshay21
-DreamAkshay is a Sports Gaming Concept As A Dream11 and Howzat base. 2021 is big bull
+DreamAkshay21
+This app is build with react Native and it is for helping the players of DreamAkshay21 to predict and set the team accordingly.
+
+This DreamAkshay21 kind of clone is to give player cue to select their best possible team considering the recent performance, pitch and various other parameters.
+
+npm install
+npm start 
+react-native start android

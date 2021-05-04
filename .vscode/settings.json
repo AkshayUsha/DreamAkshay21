@@ -1,0 +1,7 @@
+{
+    "[git-rebase]": {
+
+        "workbench.editor.restoreViewState": false
+    },
+    "git.autofetch": true
+}
