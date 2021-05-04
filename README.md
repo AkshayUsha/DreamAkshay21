@@ -6,3 +6,5 @@ This DreamAkshay21 kind of clone is to give player cue to select their best poss
 npm install
 npm start 
 react-native start android
+
+Created By Akshay Gupta
